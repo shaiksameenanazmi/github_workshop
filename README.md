@@ -3,4 +3,9 @@
   
 *this text will be italic*<br>
 
-**this text will be bold**
+**this text will be bold**<br>
+
+*apple
+*banana
+  *mango
+  *aples
